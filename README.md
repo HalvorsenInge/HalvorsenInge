@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HalvorsenInge
 - 👀 I’m interested in backend and fullstack development. Also security, and CTF.
-- 🌱 I’m currently learning Python, Javascript and Rust.
+- 🌱 I’m currently mucking about.
 
 <!---
 HalvorsenInge/HalvorsenInge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
